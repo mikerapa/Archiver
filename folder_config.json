@@ -1,0 +1,14 @@
+{
+  "CITC": {
+    "folder_path": "/home/mike/Documents/CITC",
+    "output_path": "/home/mike/Documents/Archive/CITC.zip",
+    "include_pattern": "",
+    "exclude_pattern": ""
+  },
+  "Wallpaper": {
+    "folder_path": "/home/mike/Pictures/Wallpaper",
+    "output_path": "/home/mike/Documents/Archive/Wallpaper.zip",
+    "include_pattern": "",
+    "exclude_pattern": ""
+  }
+}
